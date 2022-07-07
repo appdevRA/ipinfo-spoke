@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDf225082d9c201510692f20af530e0d56</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>bad3806d87ecd110c6fafd57dabb3559</scope_name>
+        <serialized_content>{"FlowDesigner:FDf225082d9c201510692f20af530e0d56":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDf225082d9c201510692f20af530e0d56.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":null,\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"bbf680fd-4efc-4c94-88e0-3263b33f76e8\",\"uiTypeLabel\":\"\",\"co_type_name\":\"FDf225082d9c201510692f20af530e0d56\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"-1\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-07 04:39:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7e25082d87201510c6fafd57dabb3562</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDf225082d9c201510692f20af530e0d56</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPInfo Spoke" source="x_846040_ipinfo_sp">bad3806d87ecd110c6fafd57dabb3559</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">bad3806d87ecd110c6fafd57dabb3559</sys_scope>
+        <sys_update_name>sys_complex_object_7e25082d87201510c6fafd57dabb3562</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-07 04:39:04</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
